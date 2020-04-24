@@ -89,7 +89,6 @@ header {
     background-color: white;
     font-family: sans-serif;
     position: relative;
-    top: 25px;
     left: -260px;
 }
 
@@ -99,8 +98,8 @@ header {
     font-family: sans-serif;
     background: none;
     position: relative;
-    top: -150px;
-    left: -240px;
+    top: 40px;
+    left: 10px;
 }
 
 .about-info h3 {
@@ -117,8 +116,7 @@ header {
     background: none;
     border-bottom: 1px solid lightgray;
     position: relative;
-    top: -295px;
-    left: -260px;
+    top: -100px;
 }
 
 .about-footer {
@@ -127,8 +125,7 @@ header {
     background: none;
     border-top: 1px solid lightgray;
     position: relative;
-    top: -165px;
-    left: -260px;
+    top: 20px;
 }
 
 .about-footer p {
@@ -136,8 +133,8 @@ header {
     font-family: sans-serif;
     font-weight: bold;
     position: relative;
-    top: -8px;
-    left: 10px;
+    top: -5px;
+    left: 15px;
 }
 
 .status {
@@ -146,8 +143,12 @@ header {
     border-radius: 3px;
     background-color: white;
     position: relative;
-    top: -354px;
+    top: -200px;
     left: 170px;
+}
+
+.status .status-update {
+    background-color: white;
 }
 
 .status-picture {
@@ -155,8 +156,8 @@ header {
     height: 50px;
     background-color: #3B5998;
     position: relative;
-    top: -660px;
-    left: -45px;
+    top: 10px;
+    left: -215px;
 }
 
 .status-update p {
@@ -166,8 +167,8 @@ header {
     font-family: sans-serif;
     font-size: small;
     position: relative;
-    top: -725px;
-    left: 140px;
+    top: -45px;
+    left: -25px;
 }
 
 .status-update strong {
@@ -179,16 +180,15 @@ header {
     height: 200px;
     background-color: #3B5998;
     position: relative;
-    top: -725px;
-    left: 170px;
+    top: -50px;
 }
 
 .status-buttons {
     border-top: 1px solid lightgray;
     background: none;
     position: relative;
-    top: -720px;
-    left: 600px;
+    top: -45px;
+    left: 10px;
 }
 .status-buttons button {
     background: none;
